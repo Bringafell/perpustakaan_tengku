@@ -8,10 +8,6 @@
                     </div>
                 </div>
                 <div class="card-body px-0 pb-2">
-                    <!-- Button trigger modal -->
-                    <button type="button" class="btn btn-info ms-3" data-bs-toggle="modal" data-bs-target="#tambahpinjam">
-                        + Pinjam Buku
-                    </button>
                 </div>
 
                 <div class="table-responsive p-0">
@@ -182,7 +178,7 @@
 
 
 
-                            <?php                                                          
+                            <?php
                                 $i++;
                             }
                             ?>
